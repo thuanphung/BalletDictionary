@@ -1,0 +1,6 @@
+framework module Pods_BalletEducation {
+  umbrella header "Pods-BalletEducation-umbrella.h"
+
+  export *
+  module * { export * }
+}

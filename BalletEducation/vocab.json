@@ -1,0 +1,315 @@
+{
+    "Terms": [{
+        "name": "Plié",
+        "translation": "To bend",
+        "definition": "Usually refers to a bend of the knee(s)",
+        "category": "Barre",
+        "imageUrl": "https://media.giphy.com/media/xYvmAIT7d559S/giphy.gif"
+        
+    },
+    {
+        "name": "Tendu",
+        "translation": "Stretched",
+        "definition": "Passing from flat to demi-pointe to point where only the toes are touching the floor",
+        "category": "Barre",
+        "imageUrl": "https://i.makeagif.com/media/10-22-2013/DJe5Zf.gif"
+    },
+    {
+        "name": "Dégagé",
+        "translation": "Disengaged",
+        "definition": "The foot of the working leg sharply brushes through the floor through tendu pointed in the air",
+        "category": "Barre",
+        "imageUrl": "https://i.makeagif.com/media/10-23-2013/u1zOC8.gif"
+    },
+    {
+        "name": "Rond de Jambe",
+        "translation": "Leg circle",
+        "definition": "The extended leg with pointed toe remains on the ground to sweep around in a semi-circle",
+        "category": "Barre",
+        "imageUrl": "https://66.media.tumblr.com/tumblr_m8f6uz3sPj1ru4r18o1_500.gif"
+    },
+    
+    {
+        "name": "Frappé",
+        "translation": "Struck",
+        "definition": "Frappés involve tapping the foot (flexed or pointed) at both cou-de-pied devant (or wrapped) and derrière before extending out.",
+        "category": "Barre",
+        "imageUrl": "https://j.gifs.com/5Qlpmx.gif"
+    },
+    
+    {
+        "name": "Petit Battement",
+        "translation": "Small Beating",
+        "definition": "A movement in which one leg is extended and lightly moved forward and backward from the ankle of the supporting leg",
+        "category": "Barre",
+        "imageUrl": "https://66.media.tumblr.com/tumblr_m6irn8KnjG1rzbpiio2_1280.gif"
+    },
+    
+    {
+        "name": "Développé",
+        "translation": "Develope",
+        "definition": "A movement in which the leg is lifted to cou-de-pied or retiré and then fully extended outward, passing through attitude.",
+        "category": "Barre",
+        "imageUrl": "https://thumbs.gfycat.com/DevotedDisgustingArabianwildcat-small.gif"
+        
+    },
+    
+    
+    {
+        "name": "Fondu",
+        "translation": "To Melt",
+        "definition": "Working leg begins fondu with the foot at the ankle of the supporting leg (in plié), the working leg extends out through and straightens along with the supporting leg",
+        "category": "Barre",
+        "imageUrl": "https://i.makeagif.com/media/4-19-2016/pkK-cG.gif"
+    },
+    
+    {
+        "name": "Grand Battement",
+        "translation": "Large beating",
+        "definition": "Straight supporting leg while the working leg tendu and lifts into the air",
+        "category": "Barre",
+        "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2015-09/23/18/tmp/webdr01/anigif_8944cd4e207ebaf9be2c5d1fd203f7c9-10.gif?downsize=700:*&output-format=auto&output-quality=auto"
+    },
+    
+    {
+        "name": "Chaînés",
+        "translation": "Chains",
+        "definition": "Two-step turn that is performed when both feet alternate back and forth to keep moving in a line or circle",
+        "category": "Turns",
+        "imageUrl": "https://blog.balletaz.org/wp-content/uploads/2018/12/gif1.gif"
+        
+    },
+    
+    {
+        "name": "Sauté",
+        "translation": "Jumped",
+        "definition": "Jumping from two feet and landing on two feet",
+        "category": "Jumps",
+        "imageUrl": "https://i.pinimg.com/originals/66/1d/f6/661df62eccf07dfac8666ab0d59a8d0f.jpg"
+    },
+    
+    {
+        "name": "Fouetté",
+        "translation": "Whipped turns",
+        "definition": "A dancer will raise their foot in a “whipped” motion as it moves past the supporting leg in the opposite direction.",
+        "category": "Turns",
+        "imageUrl": "https://media.giphy.com/media/thdgwsPOhJIOc/giphy.gif"
+    },
+    
+    {
+        "name": "Pirouette",
+        "translation": "Spin or whirl",
+        "definition": "Pirouettes are done by turning on one leg, with the other off the ground and in usually a passé position",
+        "category": "Turns",
+        "imageUrl": "https://media1.giphy.com/media/NnyDoTQRr6iT6/giphy.gif"
+    },
+    
+    {
+        "name": "Attitude Turn",
+        "translation": "",
+        "definition": "Turn in attitude position",
+        "category": "Turn",
+        "imageUrl": "https://i.pinimg.com/originals/9d/1a/25/9d1a2580c5448a831b00be31a8eb8566.gif"
+    },
+    {
+        "name": "Piqué Tour",
+        "translation": "Prick turn",
+        "definition": "Stepping on a straight foot (the prick) with the working leg in a back passe",
+        "category": "Turns",
+        "imageUrl": "https://thumbs.gfycat.com/EasyInfiniteApatosaur-size_restricted.gif"
+    },
+    {
+        "name": "Grand Pirouette",
+        "translation": "Large turn",
+        "definition": "Pirouette in a la second (usually 90 degrees)",
+        "category": "Turns",
+        "imageUrl": "https://i.pinimg.com/originals/bb/d0/ac/bbd0ac6575ff0fb696f049df04512b01.gif"
+    },
+    {
+        "name": "Soubresaut",
+        "translation": "Quick spring",
+        "definition": "A quick jump from two feet and lands on two feet in fifth positio",
+        "category": "Jumps",
+        "imageUrl": "https://data.whicdn.com/images/76440831/large.jpg"
+    },
+    {
+        "name": "Changement",
+        "translation": "Change",
+        "definition": "A jump from fifth position with the feet, jumping and changing the foot position in the air so they land with the opposite foot in front",
+        "category": "Jumps",
+        "imageUrl": "https://thumbs.gfycat.com/AshamedBadCub-size_restricted.gif"
+    },
+    {
+        "name": "Échappé Sauté",
+        "translation": "Escaped",
+        "definition": "A jump usually from first or fifth position into second or fourth position",
+        "category": "Jumps",
+        "imageUrl": "https://i.pinimg.com/originals/54/ec/2a/54ec2a813b78fcd7e239d0b0c78ed24a.jpg"
+    },
+    {
+        "name": "Pas de Chat",
+        "translation": "Step of the cat",
+        "definition": "Jump in the air where both legs go through pasé",
+        "category": "Jumps",
+        "imageUrl": "https://i.makeagif.com/media/9-12-2015/mI7dfE.gif"
+    },
+    {
+        "name": "Brisé",
+        "translation": "Broken",
+        "definition": "",
+        "category": "Jumps",
+        "imageUrl": "https://i.makeagif.com/media/1-02-2016/2GkgUk.gif"
+    },
+    {
+        "name": "Grand Jeté",
+        "translation": "Big throw",
+        "definition": "A long horizontal jump in a developé manner (bent legs)",
+        "category": "Jumps",
+        "imageUrl": "https://media.giphy.com/media/Gz8mjXC6qN0aY/giphy.gif"
+    },
+    {
+        "name": "Tour Jeté",
+        "translation": "Turning throw",
+        "definition": "A high turning leap starting with battement and finishing in arabesque",
+        "category": "Jumps",
+        "imageUrl": "https://thumbs.gfycat.com/UnrealisticAngelicJay-max-1mb.gif"
+    },
+    {
+        "name": "Cabriole",
+        "translation": "Caper",
+        "definition": "",
+        "category": "Jumps",
+        "imageUrl": "https://i.pinimg.com/originals/9c/72/b5/9c72b5cc95ff290fcbff9f48c1aa5bf7.gif"
+    },
+    {
+        "name": "First Position",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://kodamaballet.files.wordpress.com/2014/09/dsc00165.jpg"
+    },
+    {
+        "name": "Second Position",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://img.haikudeck.com/mi/1d048de379626dcd8da295588477b06d.jpeg"
+    },
+    {
+        "name": "Third Position",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://previews.123rf.com/images/milkos/milkos1704/milkos170400146/75186832-ballerina-legs-third-position-in-pointe-ballet-dancer-closeup-background.jpg"
+    },
+    {
+        "name": "Fourth Position",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ballet_feet_closed_4th_position.png/170px-Ballet_feet_closed_4th_position.png"
+    },
+    {
+        "name": "Fifth Position",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://balletclassroom.files.wordpress.com/2012/02/balletfifth.jpg"
+    },
+    {
+        "name": "B Plus",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://balletclassroom.files.wordpress.com/2012/02/ballet-b-plus.jpg"
+    },
+    {
+        "name": "À la Seconde",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://i.pinimg.com/originals/06/b5/b0/06b5b0a96b413b033a81e2ad2586d008.jpg"
+    },
+    {
+        "name": "Arabesque",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://i0.wp.com/aballeteducation.com/wp-content/uploads/2014/10/ballet-pose.jpg?ssl=1"
+    },
+    {
+        "name": "Attitude",
+        "translation": "",
+        "definition": "",
+        "category": "Positions",
+        "imageUrl": "https://vignette.wikia.nocookie.net/dance/images/e/e4/Tumblr_m8ez54biN61ry2vrho1_1280.jpg/revision/latest?cb=20140408151712"
+    },
+    {
+        "name": "Sur le cou-de-pied",
+        "translation": "On the neck of the foot",
+        "definition": "A position where the working foot is wrapped around the working leg's ankle.",
+        "category": "Positions",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHWSG8EqQCK5_79GtncmV1qme8aEMplip5JYa6l6OBGkGqaOq1g"
+    },
+    
+    {
+        "name": "Balancé",
+        "translation": "Balanced",
+        "definition": "The type of waltz step that is usually in three counts and has the motion of going 'down, up, down'.",
+        "category": "Travel Steps",
+        "imageUrl": "https://j.gifs.com/wVE4Yw.gif"
+    },
+    {
+        "name": "Tombé Pas de Bourrée",
+        "translation": "Fall beating step",
+        "definition": "Very common preparatory step for pirouettes.",
+        "category": "Travel Steps",
+        "imageUrl": "https://j.gifs.com/q7V4wr.gif"
+    },
+    
+    {
+        "name": "Bourrée",
+        "translation": "Drunk",
+        "definition": "Very common traveling step done en pointe in a tight 5th position. Bourrée accross the stage was made popularized by Myrta's famous entrance in Act III of Giselle.",
+        "category": "Travel Steps",
+        "imageUrl": "https://j.gifs.com/zvBjVr.gif"
+    },
+    {
+        "name": "Échappé",
+        "translation": "Escape",
+        "definition": "This step is usually done en pointe from 5th to 2nd position and sometimes from 5th to 4th position.",
+        "category": "Travel Steps",
+        "imageUrl": "https://j.gifs.com/91pZ6P.gif"
+    },
+    {
+        "name": "Assemblé",
+        "translation": "Step put together",
+        "definition": "Executed from a degage in plie and both feet are brought together in 5th position in the air.",
+        "category": "Jumps",
+        "imageUrl": "https://j.gifs.com/r8EDZw.gif"
+    },
+    {
+        "name": "Entrechat",
+        "translation": "Interweaving” or braiding",
+        "definition": "When a dancer beats their legs in the air and land in the same 5th position they started off with.",
+        "category": "Jumps",
+        "imageUrl": "https://j.gifs.com/OMExYg.gif"
+    },
+    {
+        "name": "Glissade",
+        "translation": "Glide",
+        "definition": "An in-between step usually starting from 5th position.",
+        "category": "Jumps",
+        "imageUrl": "https://j.gifs.com/YWQLE0.gif"
+    },
+
+    {
+        "name": "Promenade",
+        "translation": "A walk",
+        "definition": "A step done in the center when a dancer stays in arabesque or attitude and rotates 360 degrees.",
+        "category": "Travel Steps",
+        "imageUrl": "https://media.giphy.com/media/u5YT2szaif43e/giphy.gif"
+    }
+    ]
+    
+}
